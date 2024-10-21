@@ -1,6 +1,9 @@
 # JavaFX Native Demo
 
-This is a demo of a JavaFX application generated as a native image (for Windows) thanks to GraalVM (JDK 23). It uses the Native image plugin for Maven (version 0.10.3).
+This is a demo of a JavaFX application generated as a native image (for Windows) thanks to GraalVM (JDK 23). It uses the Native image plugin for Maven (version 0.10.3). 
+
+The JavaFX demo uses FXML for describing the GUI:
+![](./img/javafx-demo-native.exe.png)
 
 ## How to build?
 
