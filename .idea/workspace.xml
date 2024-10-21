@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f2f65b9-77e1-459c-a168-0e2c131cf940" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/javafx-native.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javafx/demo/graalvm/JavaFXApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javafx/demo/graalvm/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javafx/demo/graalvm/gui/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/native-image/jni-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/native-image/predefined-classes-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/native-image/proxy-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/native-image/reflect-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/native-image/resource-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/native-image/serialization-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/javafx/demo/graalvm/graalvm_rabbit_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/javafx/demo/graalvm/grain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/javafx/demo/graalvm/gui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/javafx/demo/graalvm/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/javafx/demo/graalvm/main-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/javafx/demo/graalvm/metaimage-main-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/javafx/demo/graalvm/metaimage-main-02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="enabledProfiles">
+      <list>
+        <option value="native" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="environmentProperties">
+      <map>
+        <entry key="CommandPromptType" value="Native" />
+        <entry key="DevEnvDir" value="c:\dev\MicrosoftVisualStudio\Common7\IDE\" />
+        <entry key="EXTERNAL_INCLUDE" value="c:\dev\MicrosoftVisualStudio\VC\Tools\MSVC\14.38.33130\include;c:\dev\MicrosoftVisualStudio\VC\Tools\MSVC\14.38.33130\ATLMFC\include;c:\dev\MicrosoftVisualStudio\VC\Auxiliary\VS\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" />
+        <entry key="ExtensionSdkDir" value="C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs" />
+        <entry key="FSHARPINSTALLDIR" value="c:\dev\MicrosoftVisualStudio\Common7\IDE\CommonExtensions\Microsoft\FSharp\Tools" />
+        <entry key="Framework40Version" value="v4.0" />
+        <entry key="FrameworkDir" value="C:\Windows\Microsoft.NET\Framework64\" />
+        <entry key="FrameworkDir64" value="C:\Windows\Microsoft.NET\Framework64\" />
+        <entry key="FrameworkVersion" value="v4.0.30319" />
+        <entry key="FrameworkVersion64" value="v4.0.30319" />
+        <entry key="HTMLHelpDir" value="C:\Program Files (x86)\HTML Help Workshop" />
+        <entry key="IFCPATH" value="c:\dev\MicrosoftVisualStudio\VC\Tools\MSVC\14.38.33130\ifc\x64" />
+        <entry key="INCLUDE" value="c:\dev\MicrosoftVisualStudio\VC\Tools\MSVC\14.38.33130\include;c:\dev\MicrosoftVisualStudio\VC\Tools\MSVC\14.38.33130\ATLMFC\include;c:\dev\MicrosoftVisualStudio\VC\Auxiliary\VS\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um;" />
+        <entry key="LIB" value="c:\dev\MicrosoftVisualStudio\VC\Tools\MSVC\14.38.33130\ATLMFC\lib\x64;c:\dev\MicrosoftVisualStudio\VC\Tools\MSVC\14.38.33130\lib\x64;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64;C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64;C:\Program Files (x86)\Windows Kits\10\\lib\10.0.22621.0\\um\x64;" />
+        <entry key="LIBPATH" value="c:\dev\MicrosoftVisualStudio\VC\Tools\MSVC\14.38.33130\ATLMFC\lib\x64;c:\dev\MicrosoftVisualStudio\VC\Tools\MSVC\14.38.33130\lib\x64;c:\dev\MicrosoftVisualStudio\VC\Tools\MSVC\14.38.33130\lib\x86\store\references;C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.22621.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.22621.0;C:\Windows\Microsoft.NET\Framework64\v4.0.30319" />
+        <entry key="NETFXSDKDir" value="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\" />
+        <entry key="Path" value="c:\dev\MicrosoftVisualStudio\VC\Tools\MSVC\14.38.33130\bin\HostX64\x64;c:\dev\MicrosoftVisualStudio\Common7\IDE\VC\VCPackages;c:\dev\MicrosoftVisualStudio\Common7\IDE\CommonExtensions\Microsoft\TestWindow;c:\dev\MicrosoftVisualStudio\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;c:\dev\MicrosoftVisualStudio\MSBuild\Current\bin\Roslyn;c:\dev\MicrosoftVisualStudio\Team Tools\Performance Tools\x64;c:\dev\MicrosoftVisualStudio\Team Tools\Performance Tools;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\;C:\Program Files (x86)\HTML Help Workshop;c:\dev\MicrosoftVisualStudio\Common7\IDE\CommonExtensions\Microsoft\FSharp\Tools;c:\dev\MicrosoftVisualStudio\Team Tools\DiagnosticsHub\Collector;C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\\x64;C:\Program Files (x86)\Windows Kits\10\bin\\x64;c:\dev\MicrosoftVisualStudio\\MSBuild\Current\Bin\amd64;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;c:\dev\MicrosoftVisualStudio\Common7\IDE\;c:\dev\MicrosoftVisualStudio\Common7\Tools\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;c:\dev\MicrosoftVisualStudio\VC\Tools\Llvm\x64\bin;c:\dev\MicrosoftVisualStudio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin;c:\dev\MicrosoftVisualStudio\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja;c:\dev\MicrosoftVisualStudio\Common7\IDE\VC\Linux\bin\ConnectionManagerExe;c:\dev\MicrosoftVisualStudio\VC\vcpkg" />
+        <entry key="UCRTVersion" value="10.0.22621.0" />
+        <entry key="UniversalCRTSdkDir" value="C:\Program Files (x86)\Windows Kits\10\" />
+        <entry key="VCIDEInstallDir" value="c:\dev\MicrosoftVisualStudio\Common7\IDE\VC\" />
+        <entry key="VCINSTALLDIR" value="c:\dev\MicrosoftVisualStudio\VC\" />
+        <entry key="VCPKG_ROOT" value="c:\dev\MicrosoftVisualStudio\VC\vcpkg" />
+        <entry key="VCToolsInstallDir" value="c:\dev\MicrosoftVisualStudio\VC\Tools\MSVC\14.38.33130\" />
+        <entry key="VCToolsRedistDir" value="c:\dev\MicrosoftVisualStudio\VC\Redist\MSVC\14.38.33135\" />
+        <entry key="VCToolsVersion" value="14.38.33130" />
+        <entry key="VS170COMNTOOLS" value="c:\dev\MicrosoftVisualStudio\Common7\Tools\" />
+        <entry key="VSCMD_ARG_HOST_ARCH" value="x64" />
+        <entry key="VSCMD_ARG_TGT_ARCH" value="x64" />
+        <entry key="VSCMD_ARG_app_plat" value="Desktop" />
+        <entry key="VSCMD_VER" value="17.8.6" />
+        <entry key="VSINSTALLDIR" value="c:\dev\MicrosoftVisualStudio\" />
+        <entry key="VSSDK150INSTALL" value="c:\dev\MicrosoftVisualStudio\VSSDK" />
+        <entry key="VSSDKINSTALL" value="c:\dev\MicrosoftVisualStudio\VSSDK" />
+        <entry key="VisualStudioVersion" value="17.0" />
+        <entry key="WindowsLibPath" value="C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.22621.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.22621.0" />
+        <entry key="WindowsSDKLibVersion" value="10.0.22621.0\" />
+        <entry key="WindowsSDKVersion" value="10.0.22621.0\" />
+        <entry key="WindowsSDK_ExecutablePath_x64" value="C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64\" />
+        <entry key="WindowsSDK_ExecutablePath_x86" value="C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\" />
+        <entry key="WindowsSdkBinPath" value="C:\Program Files (x86)\Windows Kits\10\bin\" />
+        <entry key="WindowsSdkDir" value="C:\Program Files (x86)\Windows Kits\10\" />
+        <entry key="WindowsSdkVerBinPath" value="C:\Program Files (x86)\Windows Kits\10\bin\10.0.22621.0\" />
+        <entry key="__DOTNET_ADD_64BIT" value="1" />
+        <entry key="__DOTNET_PREFERRED_BITNESS" value="64" />
+        <entry key="__VSCMD_PREINIT_INCLUDE" value="" />
+        <entry key="is_x64_arch" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2ncBGZAtA8YuNpbE7QcQY9HEdkY" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/dev/projects/dragon&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="javafx.demo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javafx.demo.graalvm.Main" />
+      <module name="graalvm" />
+      <option name="VM_PARAMETERS" value="-agentlib:native-image-agent=config-output-dir=$PROJECT_DIR$/src/main/resources/META-INF/native-image --module-path $MAVEN_REPOSITORY$/org/openjfx/javafx-base/22/javafx-base-22-win.jar;$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/22/javafx-graphics-22-win.jar;$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/22/javafx-fxml-22-win.jar;$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/22/javafx-controls-22-win.jar;$MAVEN_REPOSITORY$/org/openjfx/javafx-swing/22/javafx-swing-22-win.jar;$MAVEN_REPOSITORY$/com/dlsc/formsfx/formsfx-core/11.6.0/formsfx-core-11.6.0.jar;$MAVEN_REPOSITORY$/org/controlsfx/controlsfx/11.2.1/controlsfx-11.2.1.jar;$MAVEN_REPOSITORY$/org/kordamp/bootstrapfx/bootstrapfx-core/0.4.0/bootstrapfx-core-0.4.0.jar;$MAVEN_REPOSITORY$/org/fxmisc/flowless/flowless/0.7.3/flowless-0.7.3.jar;$MAVEN_REPOSITORY$/org/fxmisc/wellbehaved/wellbehavedfx/0.3.3/wellbehavedfx-0.3.3.jar;$MAVEN_REPOSITORY$/org/fxmisc/undo/undofx/2.1.1/undofx-2.1.1.jar --add-modules javafx.base,javafx.graphics,javafx.fxml,javafx.controls,javafx.swing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javafx.demo.graalvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f2f65b9-77e1-459c-a168-0e2c131cf940" name="Changes" comment="" />
+      <created>1729262389170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729262389170</updated>
+      <workItem from="1729262390879" duration="2398000" />
+      <workItem from="1729405986528" duration="1380000" />
+      <workItem from="1729459816473" duration="10294000" />
+      <workItem from="1729515321456" duration="3025000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

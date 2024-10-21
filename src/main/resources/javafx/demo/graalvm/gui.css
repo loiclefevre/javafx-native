@@ -1,0 +1,32 @@
+#title {
+    -fx-font-family: "Oracle Sans", sans-serif;
+    -fx-font-size: 48px;
+    -fx-font-weight: 400;
+}
+
+#subtitle {
+    -fx-font-family: "Oracle Sans", sans-serif;
+    -fx-font-size: 24px;
+    -fx-font-weight: 200;
+}
+
+#img {
+    -fx-background-color: linear-gradient(from 0% 100% to 100% 69%, hsb(207, 62%, 37%) 0%, hsb(210, 37%, 14%) 100%);
+    -fx-background-image: url("grain.png") repeat;
+    padding: 80px 0px 0px 0px;
+}
+
+#download, #getstarted {
+    -fx-font-family: "Oracle Sans", sans-serif;
+    -fx-font-size: 18px;
+    -fx-font-weight: 400;
+    -fx-background-color: rgb(242, 145, 16);
+    -fx-background-radius: 12;
+    -fx-background-insets: 1;
+    -fx-text-fill: #ffffff;
+}
+
+#download:hover, #getstarted:hover {
+    -fx-background-color: rgb(221, 131, 12);
+    transition: rgb(242, 145, 16) 0.3s ease;
+}

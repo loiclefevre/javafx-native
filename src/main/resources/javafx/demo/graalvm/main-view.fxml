@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox fx:id="main" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="javafx.demo.graalvm.gui.Controller">
+    <padding>
+        <Insets bottom="0" left="0" right="0" top="0" />
+    </padding>
+    <children>
+        <Pane fx:id="img" blendMode="SCREEN" maxHeight="480.0" maxWidth="1240.0" minHeight="-Infinity" minWidth="-Infinity" prefHeight="480.0" prefWidth="1240.0" scaleShape="false" stylesheets="@gui.css" BorderPane.alignment="CENTER">
+            <children>
+                <Label fx:id="title" layoutX="68.0" layoutY="128.0" prefHeight="144.0" prefWidth="600.0" stylesheets="@gui.css" text="Build faster, smaller, leaner&#13;applications" textFill="#ffffff">
+                    <effect>
+                        <DropShadow height="114.0" offsetY="5.0" radius="56.5" width="114.0" />
+                    </effect>
+                </Label>
+                <Label fx:id="subtitle" layoutX="68.0" layoutY="280.0" prefHeight="32.0" stylesheets="@gui.css" text="An advanced JDK with ahead-of-time Native Image compilation" textFill="#ffffff">
+                    <effect>
+                        <DropShadow height="114.0" offsetY="5.0" radius="56.5" width="114.0" />
+                    </effect>
+                </Label>
+                <ImageView fx:id="background1" fitHeight="564" fitWidth="550" layoutX="828.0" layoutY="-50.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@metaimage-main-01.png" />
+                    </image>
+                    <effect>
+                        <BoxBlur height="0.0" width="0.0" />
+                    </effect>
+                </ImageView>
+                <ImageView fx:id="background2" fitHeight="919" fitWidth="1750" layoutX="-344" layoutY="174" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@metaimage-main-02.png" />
+                    </image>
+                    <effect>
+                        <BoxBlur height="0.0" width="0.0" />
+                    </effect>
+                </ImageView>
+                <ImageView fx:id="rabbit" fitHeight="255" fitWidth="332" layoutX="805" layoutY="120" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@graalvm_rabbit_icon.png" />
+                    </image>
+                    <effect>
+                        <BoxBlur height="0.0" width="0.0" />
+                    </effect>
+                </ImageView>
+            <Button fx:id="download" layoutX="68.0" layoutY="371.0" mnemonicParsing="false" onAction="#openLinkDownload" prefHeight="38" prefWidth="180" stylesheets="@gui.css" text="Download" />
+            <Button fx:id="getstarted" layoutX="274.0" layoutY="371.0" mnemonicParsing="false" onAction="#openLinkGetStarted" prefHeight="38" prefWidth="180" stylesheets="@gui.css" text="Get Started" />
+            </children>
+        </Pane>
+    </children>
+</VBox>
