@@ -17,7 +17,7 @@ public class Controller {
 
 	public void initialize() {
 		if (needsInitialization) {
-
+			needsInitialization = false;
 		}
 	}
 
